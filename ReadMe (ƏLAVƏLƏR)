@@ -1,0 +1,12 @@
+PROGRAMDA ƏLAVƏ FUNKSİYALAR:
+
+1.Sonuncu musiqi oxunub bitdikdən sonra musiqi dayanır.
+2.Musiqi oxuna click edib sürüklədikcə oxda eyni hərəkət edərək getdiyi ox üzrə oxutmağa başlayır.
+3.Listdəki musiqiyə klik etdikdə həmin musiqi oxuyur
+4.Musiqi oxunduqda play və pause statusu görsədilir
+5.Listdəki Son musiqi oxunub bitdikdə pause olur
+6.Səs idarəsi - mouse klik edib suruklədikcə səs səviyəsi dəyişir
+7.Səs icon a klik etdikde səs bağlanır və icon dəyişir.2 ci klikdə və ya səs səviyəsini artirdiqda səs açılır
+   
+
+   
